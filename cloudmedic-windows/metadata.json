@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "CloudMedic is a sample medical application using a .NET API",
+  "description": "This template allows you to create a HIPAA compliant medical application that uses a .NET API, it provisions a webapp as well as a sql database with sample data for ease of use(can easily be changed)",
+  "summary": "Sample medical application using a .NET API",
+  "githubUsername": "ericsengithub",
+  "dateUpdated": "<e.g. 2016-7-20>"
+}
